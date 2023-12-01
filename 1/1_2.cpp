@@ -1,12 +1,9 @@
 #include <fstream>
 #include <iostream>
 #include <vector>
-#include <algorithm>
 #include <utility>
 
 using std::string;
-using std::min;
-using std::max;
 
 std::vector<string> words = {
 	"one", "two", "three",
